@@ -1,7 +1,5 @@
 # wreathe-office-resources
-Office resources for Wreathe
 
-Licensing:
+This package is part of Wreathe, and is maintained by the Ember project.
 
-* Clipart/Gallery: From LibreOffice
-* Templates: From LibreOffice
+Learn about Wreathe at the Ember Web site: http://futuramerlin.com/ancillary/wreathe/

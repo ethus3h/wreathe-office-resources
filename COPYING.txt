@@ -1,4 +1,4 @@
 Licensing:
 
-* Clipart/Gallery: From LibreOffice
-* Templates: From LibreOffice
+* Clipart/: From LibreOffice
+* Templates/: From LibreOffice
